@@ -23,7 +23,7 @@ function App() {
 
             <button className="transform flex flex-row items-center justify-center gap-3 rounded-md bg-blue-700 px-8 py-2 text-md font-medium capitalize tracking-wide text-white transition-colors duration-200 hover:bg-blue-600 focus:bg-blue-600 focus:outline-none sm:mx-2">
               <FaFacebook size={20} />
-              <a href='https:facebook.com' >Facebook Page</a>
+              <a href='https://www.facebook.com/DrugstoresAssociationOfthePhilippines' >Facebook Page</a>
               
             </button>
           </div>
